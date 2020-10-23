@@ -23,36 +23,36 @@
 
 ## 演示
 - 登录界面
-    - [](doc_images/登录.png)
+    - ![](doc_images/登录.png)
 - 注册
-    - [](doc_images/注册.png)
+    - ![](doc_images/注册.png)
 - 主界面
-    - [](doc_images/初始界面.png)
+    - ![](doc_images/初始界面.png)
 - 按标题搜索
-    - [](doc_images/按标题搜索.png)
+    - ![](doc_images/按标题搜索.png)
 - 按时间搜索
-    - [](doc_images/按时间搜索.png)
+    - ![](doc_images/按时间搜索.png)
 - 个人信息
-    - [](doc_images/个人信息.png)
+    - ![](doc_images/个人信息.png)
 - 发起提问
-    - [](doc_images/提问.png)
+    - ![](doc_images/提问.png)
 - 全部提问
-    - [](doc_images/全部提问.png)
+    - ![](doc_images/全部提问.png)
 - 提问详情
-    - [](doc_images/提问详情.png)
+    - ![](doc_images/提问详情.png)
 - 编辑回答
-    - [](doc_images/编辑回答1.png)
-    - [](doc_images/编辑回答2.png)
+    - ![](doc_images/编辑回答1.png)
+    - ![](doc_images/编辑回答2.png)
 - 我的提问
-    - [](doc_images/我的提问.png)
+    - ![](doc_images/我的提问.png)
 - 我的回答
-    - [](doc_images/我的回答.png)
+    - ![](doc_images/我的回答.png)
 - 我关注的提问
-    - [](doc_images/我关注的提问.png)
+    - ![](doc_images/我关注的提问.png)
 - 我的粉丝
-    - [](doc_images/我的粉丝.png)
+    - ![](doc_images/我的粉丝.png)
 - 我关注的用户
-    - [](doc_images/我关注的用户.png)
+    - ![](doc_images/我关注的用户.png)
 - 查看他人信息
-    - [](doc_images/查看他人信息.png)
+    - ![](doc_images/查看他人信息.png)
     
